@@ -215,8 +215,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **DevOps Engineer**  
-📧 Email: YourEmail
-🔗 GitHub: [Your GitHub Profile]
+📧 Email: rohitnehalkr@outlook.com
+🔗 GitHub: https://github.com/nehal-sin?tab=packages
 
 ## 🙏 Acknowledgments
 
