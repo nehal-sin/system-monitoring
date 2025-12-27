@@ -215,8 +215,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **DevOps Engineer**  
-📧 Email: DevOpsdecode@gmail.com  
-🔗 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+📧 Email: YourEmail
+🔗 GitHub: [Your GitHub Profile]
 
 ## 🙏 Acknowledgments
 
